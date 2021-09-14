@@ -1,0 +1,15 @@
+.DogDetails {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.DogDetails img {
+  align-self: start;
+  width: 300px;
+  height: 300px;
+}
+
+.DogDetails div ul li {
+  list-style:none;
+}
